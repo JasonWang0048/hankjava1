@@ -15,7 +15,7 @@ public class PokerGame {
 		for(int i=0; i < nums.length; i++){
 			System.out.println(nums[i]);
 		}
-		char f = 0x2663;
+		char f = 0x2666;
 		System.out.println(f);
 				
 		
