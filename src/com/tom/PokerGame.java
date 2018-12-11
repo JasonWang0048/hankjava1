@@ -15,7 +15,7 @@ public class PokerGame {
 		System.out.println(c[0].draw());
 		
 		Poker poker = new Poker();
-		poker.shuffle();
+//		poker.shuffle();
 		poker.print();
 		
 /*		int[] suits = {0x2663, 0x2666, 0x2665, 0x2660};
